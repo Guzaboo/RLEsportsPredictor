@@ -1,3 +1,3 @@
 Matches were taken from Liquipedia's list of Premier and Major tournaments.
 
-//test and fine-tune dominance
+RLtournaments.json was created by https://github.com/Guzaboo/RLTournamentDataScraper
