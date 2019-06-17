@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=games\ premier\ LAN\ date
+comment0.target=Match(Game[],\ boolean,\ boolean,\ long)
+comment1.params=premier\ LAN\ date\ team1\ team2
+comment1.target=Match(boolean,\ boolean,\ long,\ Player[],\ Player[])
+comment2.params=
+comment2.target=void\ dominance()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
