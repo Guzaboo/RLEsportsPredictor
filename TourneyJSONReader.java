@@ -10,7 +10,7 @@ import java.util.Collections;
 public class TourneyJSONReader
 {
     
-    static String json = readLineByLineJava8("E:/Programming/BlueJ/RLEsportsPredictor - Updated/RLtournaments.json");
+    static String json = readLineByLineJava8("RLtournaments.json");
     static ArrayList<Match> matches = new ArrayList<Match>();
     static ArrayList<Player> players = new ArrayList<Player>();
     
@@ -144,7 +144,7 @@ public class TourneyJSONReader
                 }
             }
         }
-        System.out.println("Correct: "+rightPredictions+"\nTotal: "+(rightPredictions+wrongPredictions)+"\n%Correct: "+(rightPredictions/(rightPredictions+wrongPredictions)));
+        System.out.println("Correct: "+rightPredictions+"\nTotal: "+(rightPredictions+wrongPredictions)+"\n%Correct: "+(rightPredictions*100/(rightPredictions+wrongPredictions)));
     }
     
     private static String readLineByLineJava8(String filePath) {
