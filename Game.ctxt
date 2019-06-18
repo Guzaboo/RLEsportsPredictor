@@ -1,4 +1,0 @@
-#BlueJ class context
-comment0.params=team1\ team2\ score1\ score2
-comment0.target=Game(Player[],\ Player[],\ int,\ int)
-numComments=1

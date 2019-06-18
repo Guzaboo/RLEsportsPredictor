@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=premier\ LAN\ date\ team1\ team2\ p
-comment0.target=FutureMatch(boolean,\ boolean,\ long,\ Team,\ Team,\ MatchPredictor)
-comment1.params=premier\ LAN\ date\ match1\ winner1\ match2\ winner2\ p
-comment1.target=FutureMatch(boolean,\ boolean,\ long,\ FutureMatch,\ boolean,\ FutureMatch,\ boolean,\ MatchPredictor)
-comment2.params=premier\ LAN\ date\ team1\ match2\ winner2\ p
-comment2.target=FutureMatch(boolean,\ boolean,\ long,\ Team,\ FutureMatch,\ boolean,\ MatchPredictor)
-numComments=3
